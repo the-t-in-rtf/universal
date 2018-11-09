@@ -1,99 +1,10 @@
 [
-
     {
-        "id": "com.android.activitymanager"
+        "id": "net.gpii.test.speechControl"
     },
 
     {
-        "id": "com.android.audioManager"
-    },
-
-    {
-        "id": "com.android.freespeech"
-    },
-
-    {
-        "id": "com.android.persistentConfiguration"
-    },
-
-    {
-        "id": "com.android.settings.secure"
-    },
-
-    {
-        "id": "com.android.settings.system"
-    },
-
-    {
-        "id": "com.android.talkback"
-    },
-
-    {
-        "id": "com.freedomscientific.jaws"
-    },
-
-    {
-        "id": "com.microsoft.windows.cursors"
-    },
-
-    {
-        "id": "com.microsoft.windows.filterKeys"
-    },
-
-    {
-        "id": "com.microsoft.windows.highContrast"
-    },
-
-    {
-        "id": "com.microsoft.windows.highContrastTheme"
-    },
-
-    {
-        "id": "com.microsoft.windows.language"
-    },
-
-    {
-        "id": "com.microsoft.windows.magnifier"
-    },
-
-    {
-        "id": "com.microsoft.windows.mouseKeys"
-    },
-
-    {
-        "id": "com.microsoft.windows.mouseTrailing"
-    },
-
-    {
-        "id": "com.microsoft.windows.narrator"
-    },
-
-    {
-        "id": "com.microsoft.windows.nightScreen"
-    },
-
-    {
-        "id": "com.microsoft.windows.onscreenKeyboard"
-    },
-
-    {
-        "id": "com.microsoft.windows.screenDPI"
-    },
-
-    {
-        "id": "com.microsoft.windows.screenResolution"
-    },
-
-    {
-        "id": "com.microsoft.windows.stickyKeys"
-    },
-
-    {
-        "id": "com.microsoft.windows.typingEnhancement"
-    },
-
-    {
-        "id": "com.microsoft.windows.volumeControl"
+        "id": "org.gnome.desktop.interface"
     },
 
     {
@@ -105,15 +16,115 @@
     },
 
     {
-        "id": "net.gpii.explode"
+        "id": "org.gnome.nautilus"
     },
 
     {
-        "id": "net.gpii.test.speechControl"
+        "id": "org.gnome.desktop.a11y.keyboard"
     },
 
     {
-        "id": "net.gpii.uioPlus"
+        "id": "org.gnome.desktop.a11y.applications.onscreen-keyboard"
+    },
+
+    {
+        "id": "org.gnome.orca"
+    },
+
+    {
+        "id": "org.gnome.desktop.a11y.magnifier"
+    },
+
+    {
+        "id": "com.microsoft.windows.magnifier"
+    },
+
+    {
+        "id": "com.freedomscientific.jaws"
+    },
+
+    {
+        "id": "com.microsoft.windows.onscreenKeyboard"
+    },
+
+    {
+        "id": "com.microsoft.windows.narrator"
+    },
+
+    {
+        "id": "com.microsoft.windows.highContrast"
+    },
+
+    {
+        "id": "com.microsoft.windows.highContrastTheme"
+    },
+
+    {
+        "id": "com.microsoft.windows.stickyKeys"
+    },
+
+    {
+        "id": "com.microsoft.windows.filterKeys"
+    },
+
+    {
+        "id": "com.microsoft.windows.mouseKeys"
+    },
+
+    {
+        "id": "com.microsoft.windows.mouseTrailing"
+    },
+
+    {
+        "id": "com.microsoft.windows.screenDPI"
+    },
+
+    {
+        "id": "com.microsoft.windows.cursors"
+    },
+
+    {
+        "id": "com.microsoft.windows.screenResolution"
+    },
+
+    {
+        "id": "com.microsoft.windows.nightScreen"
+    },
+
+    {
+        "id": "com.microsoft.windows.typingEnhancement"
+    },
+
+    {
+        "id": "com.microsoft.windows.language"
+    },
+
+    {
+        "id": "com.microsoft.windows.brightness"
+    },
+
+    {
+        "id": "com.android.activitymanager"
+    },
+
+    {
+        "id": "com.android.talkback"
+    },
+
+    {
+        "id": "com.android.freespeech"
+    },
+
+    {
+        "id": "com.android.settings.secure"
+    },
+
+    {
+        "id": "com.android.audioManager"
+    },
+
+    {
+        "id": "com.android.persistentConfiguration"
     },
 
     {
@@ -125,28 +136,19 @@
     },
 
     {
-        "id": "org.gnome.desktop.a11y.applications.onscreen-keyboard"
+        "id": "com.android.settings.system"
     },
 
     {
-        "id": "org.gnome.desktop.a11y.keyboard"
+        "id": "net.gpii.uioPlus"
     },
 
     {
-        "id": "org.gnome.desktop.a11y.magnifier"
+        "id": "com.microsoft.windows.volumeControl"
     },
 
     {
-        "id": "org.gnome.desktop.interface"
-    },
+        "id": "net.gpii.explode"
+    }
 
-    {
-        "id": "org.gnome.nautilus"
-    },
-
-    {
-        "id": "org.gnome.orca"
-    },
-
-    {"id": "org.nvda-project"}
 ]
